@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yamba</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_tweet">Tweet</string>
+    <string name="hint_status">What\'s going on?</string>
+
+    <string name="title_details">Details</string>
+
+    <string name="summaryUsername">Please enter your username</string>
+    <string name="summaryPassword">Please enter your passwor</string>
+    <string name="summaryApiRoot">URL of Root API for your service</string>
+    <string name="titlePrefs">Prefs</string>
+    <string name="titleUsername">Username</string>
+    <string name="titlePassword">Password</string>
+    <string name="titleApiRoot">API Root</string>
+
+    <string name="titleServiceStart">Service Start</string>
+    <string name="titleServiceStop">Service Stop</string>
+
+    <string name="titleTimeline">Timeline</string>
+    
+    <string name="msgLastTimelineUpdate">Yamba Widget</string>
+    <string name="titleStatus">Status</string>
+    <string name="msgSetupPrefs">Setup Prefs</string>
+    
+    <string name="send_timeline_notifications_permission_label">SendTimelineNotifications</string>
+    <string name="send_timeline_notifications_permission_description">SendTimelineNotifications</string>
+    <string name="receive_timeline_notifications_permission_label">ReceiveTimelineNotifications</string>
+    <string name="receive_timeline_notifications_permission_description">ReceiveTimelineNotifications</string>
+</resources>
